@@ -1,0 +1,6 @@
+customhost = "covid19.cgg66tht35jc.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "123456789"
+customdb = "Covid19"
+custombucket = "covivbuc"
+customregion = "us-east-1c"
